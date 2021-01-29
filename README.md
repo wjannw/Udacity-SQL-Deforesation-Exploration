@@ -25,5 +25,11 @@ Country-Level Detail
 Recommendations
 Appendix: SQL queries used
 
+## Files used
+* forest_area.csv
+* land_area.csv
+* regions.csv
+* Deforestation Exploration project template.doc
+
 ## Credits
 Udacity
